@@ -1,0 +1,11 @@
+.nav-image {
+  width: 9%;
+  height: 9%;
+  transition: 0.5s;
+}
+
+.nav-image:hover {
+  width: 11%;
+  height: 11%;
+  object-fit: contain;
+}
